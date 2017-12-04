@@ -1,4 +1,4 @@
-# A Dialetical View of Software Development
+# A Dialectical View of Software Development
 
 No question plagues the mind of a caring developer more than the question of how to best organize and coordinate software development.
 The Agile Manifesto was published more than fifteen years ago and its steadily losing its status as a catchall answer for this very question.
