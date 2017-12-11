@@ -14,16 +14,16 @@ Biologicaly speaking, language is a very recent adaptation. We are relativelly s
 
 The hypothesis that I'm going to discuss with you guys today is that LMC helps us humans to solve the problem of shared knowlege vs commom knowledge.
 
-Shared Knowledge
+## Shared Knowledge
 
-A knows x
-B knows x
+* A knows x
+* B knows x
 
-Common Knowledge
+##Common Knowledge
 
-A knows x
-B knows x
-A knows that B knows x
-B knows that A knows x
-A knows that B knows that A knows x
-...
+* A knows x
+* B knows x
+* A knows that B knows x
+* B knows that A knows x
+* A knows that B knows that A knows x
+* ...
