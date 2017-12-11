@@ -6,7 +6,7 @@ This advice become a little meme for a while for a good reason. It's really obno
 
 But I decided to take the only advisable course when you became a meme. I'm going to double down on it and I am going to tell you a lot of other scientific facts about communication.
 
-But first let's go back a little and try to define communication. I'll define communication as transmission of information between agents.
+But first let's go back a little and try to define communication. I'll define communication as `transmission of information between agents.`
 
 There are a lot of different ways to do that, but what most people understand by communication is Language Mediated Communication, or in other words, things that we say, that we write, that we record which are encoded in symbols.
 
