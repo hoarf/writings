@@ -38,3 +38,6 @@ Only common knowledge makes them showing up for hunting something racional.
 
 This is the reason why you will never see two monkeys coordinate to move a large log, for instance.
 
+## Most important fact about communication
+
+The most, number one, if you need to remember one thing from this kind of fact, this should be it is that `MOST COMMUNICATION IS NOT MEDIATED THROUGH LANGUAGE`
