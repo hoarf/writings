@@ -12,14 +12,14 @@ There are a lot of different ways to do that, but what most people understand by
 
 Biologicaly speaking, language is a very recent adaptation. We are relativelly sure that most animals do not have language, at leat not in the degree of sophistication that humans do. That raises the question, what is communication for?
 
-The hypothesis that I'm going to discuss with you guys today is that LMC helps us humans to solve the problem of shared knowlege vs commom knowledge.
+The hypothesis that I'm going to discuss with you guys today is that LMC helps us humans to solve the `problem of shared knowlege vs commom knowledge.`
 
 ## Shared Knowledge
 
 * A knows x
 * B knows x
 
-##Common Knowledge
+## Common Knowledge
 
 * A knows x
 * B knows x
@@ -27,3 +27,14 @@ The hypothesis that I'm going to discuss with you guys today is that LMC helps u
 * B knows that A knows x
 * A knows that B knows that A knows x
 * ...
+
+This is a problem from Game Theory. Imagine the following scenario:
+
+There are two hunters who live on opposite sides of the forest: Munjal and Fernando. Every morning they face the choice of either hunting a small rabbit or hunting a large stag. The stag gives a much better reward but it requires that both of them coordinate and show up for the hunt.
+
+Suppose that Munjal knows that the stag is in the woods today. That information is not enough to be able to hunt it because Fernando also needs to know that the stag is in the woods today, plus Fernando needs to know that Munjal knows that the stag is in the woods today otherwise there is no point in showing up.
+
+Only common knowledge makes them showing up for hunting something racional.
+
+This is the reason why you will never see two monkeys coordinate to move a large log, for instance.
+
