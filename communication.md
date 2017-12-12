@@ -50,13 +50,29 @@ The most important, number one, "if you need to remember one thing from this" ki
 
 I'm gonna repeat that. `A LARGE PART OF COMMUNICATION IS NOT MEDIATED THORUGH LANGUAGE`
 
-Right now, you guys are looking and me and hearing what I am saying, but my words are not the only thing being communicated right now. The clothes I am wearing, my body language, the way I speak, the kind of words I am chosing, the familiarity that you have or not have with the subject, the expectations you have about my behaviour, the conversations you might have had about me with somebody else. All of this things are factored in the information that are being exchanged. Most of this information bypasses your councious toughts and feed directly into your biases and sub-councious.
+Right now, you guys are looking and me and hearing what I am saying, but my words are not the only thing being communicated right now. The clothes I am wearing, my body language, the way I speak, the kind of words I am chosing, the familiarity that you have or not have with the subject, the expectations you have about my behaviour, the conversations you might have had about me with somebody else, the degree to witch the things I am saying make sense to you. All of this things are factored in the information that are being exchanged. 
 
-Nowdays in Western Culture there is a lot of emphasis placed on language, in my opinion, for two main reasons.
+Most of this information bypasses your councious toughts and feed directly into your biases in your subcouncious.
+
+Nowdays in Western Culture there is a lot of importance placed on language, in my opinion, for two main reasons.
 
 1. The influence of post modern analytical philosophers who place a lot of emphasis on language.
 
-2. The ever greater participation of women in the job market. Women are consistenly better at language related tasks than man at pretty much every age bracket. So it's only natural that, as more women join the market place, more emphasis is put on it.
+2. The ever greater participation of women in the job market. Women are consistenly better at language related tasks than man at pretty much every age bracket. So it's only natural that, as more women join the market place, more emphasis is placed on language.
 
-That is not to say that men don't have sophisticated ways of communicating. We do, but it tends to be slightly different.
+That is not to say that men don't have sophisticated ways of communicating. We do, but it tends to be slightly less dependent on language.
+
+## Pratical Stoic Advices for Dealing With Communication Errors
+
+This set of stoic advices will hopefully help you to deal with communication errors in a more ideal way in your day to day life.
+
+1. Expect communication errors
+   If we accept errors as a part of life we feel less frustrated when they happen.
+
+2. Share the burden of the errors evenly.
+   If you regularly say things like "I told you before", or "Do I need to tell you again" you are implicitilly putting the burden of error in the other person. This is a bad idea because communication errors can be caused: by the destination, by source or by medium. If you assume it's always the destination you are, at best, probably wrong, or at worst, a hypocritical asshole.
+
+3. Write more often. Ideas are linked in your brain in a graph like structure. Speaking or writing an idea is the process of stringifying (or turning it linear) this graph. Learning how to articulate your thoughts is one of the most important skills you can have at any job. 
+
+QUANDO ALGUÉM PERGUNTA A UM AUTOR O QUE ESTE QUIS DIZER, É PORQUE UM DOS DOIS É BURRO. - Mario Quintana.
 
