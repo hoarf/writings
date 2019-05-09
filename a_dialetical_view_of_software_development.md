@@ -19,6 +19,6 @@ What comes out of this whole process will hopefully be better than going to eith
 
 So, what evidence is there that this is a good idea on how to improve software building at all? 
 
-As it is with most of commonly held belief in the field, there is very little empirical research on this. However, if we think of the problem of finding the best mode of producing software in the manifold of every possible way to do so, we can view software development as an optimization problem and we can begin to trace similarities with adversarial optimization techniques, such as GAN - Generative Adversarial Networks, that currently enjoy a lot of hype in the AI world. 
+As it is with most of commonly held beliefs in the field, there is very little empirical research on this. However, if we think of the problem of finding the best mode of producing software in the manifold of every possible ways to do so, we can view software development as an optimization problem and we can begin to trace similarities with adversarial optimization techniques, such as GAN - Generative Adversarial Networks, that currently enjoy a lot of hype in the AI world. 
 
 One may think that I am stretching this idea too far with this comparison and one may be right. But, after all, what are human brains if not optimization machines? 
