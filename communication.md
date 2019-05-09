@@ -78,13 +78,13 @@ This set of stoic bits of advice will hopefully help you to deal with communicat
 
 ## Top 3 human biases to be aware of in us and in others
 
-1. Confirmation
+1. Confirmation.
    We look for evidence that confirms what we already believe. We are terrible scientists. 
 
-2. Hindsight
+2. Hindsight.
    Try to give advice to people before them taking complex decisions instead of doing after it. Anyone can be the "I always knew it" guy after the fact.
 
-3. Survivor
+3. Survivor.
    "A" did X and "A" is successful therefore if I do X I will be successful is flawed reasoning. There is no magic bullet or highly regular trends in successful people behaviour.
 
 # THANKS
