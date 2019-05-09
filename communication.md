@@ -58,7 +58,7 @@ Most of this information bypasses your conscious thoughts and feed directly into
 
 Nowadays in Western Culture, there is a lot of importance placed on language, in my opinion, for two main reasons.
 
-1. The influence of postmodern analytical philosophers who place a lot of emphasis on language. (can of worms)
+1. The influence of postmodern analytical philosophers who place a lot of emphasis on language. 
 
 2. The ever greater participation of women in the job market. Women are consistently better at language related tasks than man at pretty much every age bracket. So it's only natural that, as more women join the marketplace, more emphasis is placed on language.
 
