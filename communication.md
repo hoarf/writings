@@ -82,7 +82,7 @@ This set of stoic bits of advice will hopefully help you to deal with communicat
    We look for evidence that confirms what we already believe. We are terrible scientists. 
 
 2. Hindsight.
-   Try to give advice to people before them taking complex decisions instead of doing after it. Anyone can be the "I always knew it" guy after the fact.
+   Try to give advice to people before them taking complex decisions instead of doing after it. Anyone can be the "I always knew it" guy after the fact is done, but predicting and acting to avoid bad situations beforehand takes tremendous insight.
 
 3. Survivor.
    "A" did X and "A" is successful therefore if I do X I will be successful is flawed reasoning. There is no magic bullet or highly regular trends in successful people behaviour.
