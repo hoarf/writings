@@ -52,7 +52,7 @@ The most important, number one, "if you need to remember one thing from this" ki
 
 Actually, I'm gonna repeat that. `A LARGE PART OF COMMUNICATION IS NOT MEDIATED THROUGH LANGUAGE`
 
-Right now, you guys are looking and me and hearing what I am saying, but my words are not the only thing being communicated right now. The clothes I am wearing, my body language, the way I speak, the kind of words I am choosing, the familiarity that you have or not have with the subject, the expectations you have about my behaviour, the conversations you had with me in the past, the conversations you might have had about me with somebody else, the degree to which the things I am saying make sense to you. All of this things are factored in the information that is being exchanged. 
+Right now, you guys are looking and me and hearing what I am saying, but my words are not the only thing being communicated. The clothes I am wearing, my body language, the way I speak, the kind of words I am choosing, the familiarity that you have or not have with the subject, the expectations you have about my behaviour, the conversations you had with me in the past, the conversations you might have had about me with somebody else, the degree to which the things I am saying make sense to you. All of this things are factored in the information that is being exchanged. 
 
 Most of this information bypasses your conscious thoughts and feed directly into your biases in your subconscious, rendering you unaware of it.
 
