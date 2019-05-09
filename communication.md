@@ -68,7 +68,7 @@ That is not to say that men don't have sophisticated ways of communicating. We d
 
 This set of stoic bits of advice will hopefully help you to deal with communication errors in a better way in your day to day work.
 
-1. Expect communication errors
+1. Expect communication errors.
    If we accept errors as a part of life we feel less frustrated when they happen.
 
 2. Share the burden of the errors evenly.
