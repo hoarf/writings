@@ -3,7 +3,7 @@
 No question plagues the mind of a caring developer more than of how to best organize and coordinate software development.
 The Agile Manifesto was published more than fifteen years ago and its steadily losing its status as a catchall answer for this very question, and mainstream Agile solutions got a fame of being snakeoil. 
 
-Critic claim that its application tends to generate a proliferation of manager roles, and also a stream of pointless meetings that feel more like bikeshedding (https://en.wiktionary.org/wiki/bikeshedding). However, the extent that we can attribute these flaws to the methodology itself or to other factors remains unknown. Perhaphs it's just Price's law? (https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price).
+Critics claim that its application tends to generate a proliferation of manager roles, and also a stream of pointless meetings that feel more like bikeshedding (https://en.wiktionary.org/wiki/bikeshedding). However, the extent that we can attribute these flaws to the methodology itself or to other factors remains unknown. Perhaphs it's just Price's law? (https://en.wikipedia.org/wiki/Derek_J._de_Solla_Price).
 
 As it is the case with any dying ideology, the thing that tends to occupy its absence is a form of nihilism, a call for a complete lack of structure, or extreme forms of subjectivism, where the developer become the sole arbiter of the relevant questions - although the claims of the uniqueness of the situation that he finds himself in, and the peculiarities of a project seem often overblown and exaggerated, leading one to conclude that no relevant information can be drawn from the pool of collective knowledge about software development. This belief must be self evidently absurd.
 
